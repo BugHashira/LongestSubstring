@@ -23,7 +23,7 @@ public class Program
             if (currentCount == 0)
             {
                 startingIndex = i + 1;
-            }
+            }   
             if (currentLetters.Contains(s[i]))
             {
                 if (count < currentCount)
